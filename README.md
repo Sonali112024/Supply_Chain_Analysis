@@ -27,13 +27,24 @@ o	pandas for data manipulation.
 o	plotly.express and plotly.graph_objects for interactive data visualization.
 ________________________________________
 **Dataset**
-The dataset used in this project contains supply chain data for a Fashion and Beauty startup. It includes information on:
-•	Product type, SKU, price, and availability.
-•	Sales and revenue data.
-•	Transportation modes, routes, and costs.
-•	Manufacturing costs, defect rates, and production volumes.
-Sample Data Columns:
-•	Product type, Price, Number of products sold, Revenue generated, Stock levels, Transportation modes, Costs, and more.
+
+The dataset used in this project contains supply chain data for a Fashion and Beauty startup. It includes information on:  
+- Product type, SKU, price, and availability.  
+- Sales and revenue data.  
+- Transportation modes, routes, and costs.  
+- Manufacturing costs, defect rates, and production volumes.  
+
+**Sample Data Columns:**  
+- Product type  
+- Price  
+- Number of products sold  
+- Revenue generated  
+- Stock levels  
+- Transportation modes  
+- Costs  
+- And more
+
+________________________________________
 
 **Insights**
 
