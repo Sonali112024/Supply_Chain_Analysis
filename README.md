@@ -1,4 +1,4 @@
-<h1 style="color:blue;">🚚 **Supply Chain Analysis using Python**</h1>
+<h1 style="color:blue;">🚚 Supply Chain Analysis using Python</h1>
 
 This project focuses on analyzing the supply chain of a Fashion and Beauty startup using Python. The analysis covers various stages of the supply chain, such as sourcing, manufacturing, transportation, inventory management, and sales. The goal is to extract meaningful insights to improve supply chain effectiveness and create more value for customers.
 
