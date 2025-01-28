@@ -9,8 +9,8 @@ We employ Python libraries like pandas and plotly to clean, analyze, and visuali
 ________________________________________
 **Features**
 **1.	Data Exploration:**
-o	Display the first few rows of the dataset.
-o	Generate descriptive statistics to understand key attributes such as price, availability, and revenue.
+  o	Display the first few rows of the dataset.
+  o	Generate descriptive statistics to understand key attributes such as price, availability, and revenue.
 **2.	Data Visualization:**
 o	Scatter plots to analyze the relationship between product price and revenue by product type.
 o	Pie charts to visualize sales distribution across different product types.
@@ -36,12 +36,16 @@ Sample Data Columns:
 •	Product type, Price, Number of products sold, Revenue generated, Stock levels, Transportation modes, Costs, and more.
 
 **Insights**
-**1.	Revenue Analysis:** Skincare products contribute significantly to overall revenue.
-**2.	Sales Distribution:** Skincare products make up 45% of total sales, followed by haircare (29.5%) and cosmetics (25.5%).
-**3.	Defect Rate by Product Type:**
-o	Haircare products have the highest defect rate among all product types, indicating a need for improved packaging or handling during shipping.
-**4.	Defect Rate by Transportation Mode:**
-o	Road transportation results in the highest defect rate, highlighting potential issues such as rough handling or poor road conditions.
-o	Air transportation has the lowest defect rate, making it a more reliable option for fragile or high-value products.
-**5.	Shipping Carrier Optimization:** Analysis of revenue by shipping carriers can help in cost and route optimization.
 
+**1. Revenue Analysis:**  
+Skincare products contribute significantly to overall revenue.
+
+**2. Sales Distribution:**  
+Skincare products make up 45% of total sales, followed by haircare (29.5%) and cosmetics (25.5%).
+
+**3. Defect Rate by Product Type:**  
+- Haircare products have the highest defect rate among all product types, indicating a need for improved packaging or handling during shipping.
+
+**4. Defect Rate by Transportation Mode:**  
+- Road transportation results in the highest defect rate, highlighting potential issues such as rough handling or poor road conditions.  
+- Air transportation has the lowest defect rate, making it
